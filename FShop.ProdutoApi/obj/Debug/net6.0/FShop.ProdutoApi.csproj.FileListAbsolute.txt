@@ -1,0 +1,112 @@
+C:\Projetos\C#\FShop\FShop.ProdutoApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Projetos\C#\FShop\FShop.ProdutoApi\bin\Debug\net6.0\appsettings.json
+C:\Projetos\C#\FShop\FShop.ProdutoApi\bin\Debug\net6.0\FShop.ProdutoApi.exe
+C:\Projetos\C#\FShop\FShop.ProdutoApi\bin\Debug\net6.0\FShop.ProdutoApi.deps.json
+C:\Projetos\C#\FShop\FShop.ProdutoApi\bin\Debug\net6.0\FShop.ProdutoApi.runtimeconfig.json
+C:\Projetos\C#\FShop\FShop.ProdutoApi\bin\Debug\net6.0\FShop.ProdutoApi.dll
+C:\Projetos\C#\FShop\FShop.ProdutoApi\bin\Debug\net6.0\FShop.ProdutoApi.pdb
+C:\Projetos\C#\FShop\FShop.ProdutoApi\bin\Debug\net6.0\Humanizer.dll
+C:\Projetos\C#\FShop\FShop.ProdutoApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Projetos\C#\FShop\FShop.ProdutoApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projetos\C#\FShop\FShop.ProdutoApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Projetos\C#\FShop\FShop.ProdutoApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projetos\C#\FShop\FShop.ProdutoApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Projetos\C#\FShop\FShop.ProdutoApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Projetos\C#\FShop\FShop.ProdutoApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Projetos\C#\FShop\FShop.ProdutoApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Projetos\C#\FShop\FShop.ProdutoApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Projetos\C#\FShop\FShop.ProdutoApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Projetos\C#\FShop\FShop.ProdutoApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Projetos\C#\FShop\FShop.ProdutoApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Projetos\C#\FShop\FShop.ProdutoApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Projetos\C#\FShop\FShop.ProdutoApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Projetos\C#\FShop\FShop.ProdutoApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Projetos\C#\FShop\FShop.ProdutoApi\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Projetos\C#\FShop\FShop.ProdutoApi\bin\Debug\net6.0\MySqlConnector.dll
+C:\Projetos\C#\FShop\FShop.ProdutoApi\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Projetos\C#\FShop\FShop.ProdutoApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projetos\C#\FShop\FShop.ProdutoApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projetos\C#\FShop\FShop.ProdutoApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Projetos\C#\FShop\FShop.ProdutoApi\bin\Debug\net6.0\System.CodeDom.dll
+C:\Projetos\C#\FShop\FShop.ProdutoApi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Projetos\C#\FShop\FShop.ProdutoApi\bin\Debug\net6.0\System.Text.Json.dll
+C:\Projetos\C#\FShop\FShop.ProdutoApi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Projetos\C#\FShop\FShop.ProdutoApi\obj\Debug\net6.0\FShop.ProdutoApi.csproj.AssemblyReference.cache
+C:\Projetos\C#\FShop\FShop.ProdutoApi\obj\Debug\net6.0\FShop.ProdutoApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\C#\FShop\FShop.ProdutoApi\obj\Debug\net6.0\FShop.ProdutoApi.AssemblyInfoInputs.cache
+C:\Projetos\C#\FShop\FShop.ProdutoApi\obj\Debug\net6.0\FShop.ProdutoApi.AssemblyInfo.cs
+C:\Projetos\C#\FShop\FShop.ProdutoApi\obj\Debug\net6.0\FShop.ProdutoApi.csproj.CoreCompileInputs.cache
+C:\Projetos\C#\FShop\FShop.ProdutoApi\obj\Debug\net6.0\FShop.ProdutoApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Projetos\C#\FShop\FShop.ProdutoApi\obj\Debug\net6.0\FShop.ProdutoApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Projetos\C#\FShop\FShop.ProdutoApi\obj\Debug\net6.0\staticwebassets\msbuild.FShop.ProdutoApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Projetos\C#\FShop\FShop.ProdutoApi\obj\Debug\net6.0\staticwebassets\msbuild.build.FShop.ProdutoApi.props
+C:\Projetos\C#\FShop\FShop.ProdutoApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FShop.ProdutoApi.props
+C:\Projetos\C#\FShop\FShop.ProdutoApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FShop.ProdutoApi.props
+C:\Projetos\C#\FShop\FShop.ProdutoApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Projetos\C#\FShop\FShop.ProdutoApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Projetos\C#\FShop\FShop.ProdutoApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Projetos\C#\FShop\FShop.ProdutoApi\obj\Debug\net6.0\scopedcss\bundle\FShop.ProdutoApi.styles.css
+C:\Projetos\C#\FShop\FShop.ProdutoApi\obj\Debug\net6.0\FShop.ProdutoApi.csproj.CopyComplete
+C:\Projetos\C#\FShop\FShop.ProdutoApi\obj\Debug\net6.0\FShop.ProdutoApi.dll
+C:\Projetos\C#\FShop\FShop.ProdutoApi\obj\Debug\net6.0\refint\FShop.ProdutoApi.dll
+C:\Projetos\C#\FShop\FShop.ProdutoApi\obj\Debug\net6.0\FShop.ProdutoApi.pdb
+C:\Projetos\C#\FShop\FShop.ProdutoApi\obj\Debug\net6.0\FShop.ProdutoApi.genruntimeconfig.cache
+C:\Projetos\C#\FShop\FShop.ProdutoApi\obj\Debug\net6.0\ref\FShop.ProdutoApi.dll
+C:\Projetos\C#\FShop\FShop.ProdutoApi\bin\Debug\net6.0\AutoMapper.dll
+C:\Projetos\C#\FShop\FShop.ProdutoApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\pj\FShop\FShop.ProdutoApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\lucas\OneDrive\Área de Trabalho\pj\FShop\FShop.ProdutoApi\bin\Debug\net6.0\appsettings.json
+C:\Users\lucas\OneDrive\Área de Trabalho\pj\FShop\FShop.ProdutoApi\bin\Debug\net6.0\FShop.ProdutoApi.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\pj\FShop\FShop.ProdutoApi\bin\Debug\net6.0\FShop.ProdutoApi.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\pj\FShop\FShop.ProdutoApi\bin\Debug\net6.0\FShop.ProdutoApi.runtimeconfig.json
+C:\Users\lucas\OneDrive\Área de Trabalho\pj\FShop\FShop.ProdutoApi\bin\Debug\net6.0\FShop.ProdutoApi.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\pj\FShop\FShop.ProdutoApi\bin\Debug\net6.0\FShop.ProdutoApi.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\pj\FShop\FShop.ProdutoApi\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\pj\FShop\FShop.ProdutoApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\pj\FShop\FShop.ProdutoApi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\pj\FShop\FShop.ProdutoApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\pj\FShop\FShop.ProdutoApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\pj\FShop\FShop.ProdutoApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\pj\FShop\FShop.ProdutoApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\pj\FShop\FShop.ProdutoApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\pj\FShop\FShop.ProdutoApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\pj\FShop\FShop.ProdutoApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\pj\FShop\FShop.ProdutoApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\pj\FShop\FShop.ProdutoApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\pj\FShop\FShop.ProdutoApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\pj\FShop\FShop.ProdutoApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\pj\FShop\FShop.ProdutoApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\pj\FShop\FShop.ProdutoApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\pj\FShop\FShop.ProdutoApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\pj\FShop\FShop.ProdutoApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\pj\FShop\FShop.ProdutoApi\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\pj\FShop\FShop.ProdutoApi\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\pj\FShop\FShop.ProdutoApi\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\pj\FShop\FShop.ProdutoApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\pj\FShop\FShop.ProdutoApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\pj\FShop\FShop.ProdutoApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\pj\FShop\FShop.ProdutoApi\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\pj\FShop\FShop.ProdutoApi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\pj\FShop\FShop.ProdutoApi\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\pj\FShop\FShop.ProdutoApi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\pj\FShop\FShop.ProdutoApi\obj\Debug\net6.0\FShop.ProdutoApi.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\pj\FShop\FShop.ProdutoApi\obj\Debug\net6.0\FShop.ProdutoApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Área de Trabalho\pj\FShop\FShop.ProdutoApi\obj\Debug\net6.0\FShop.ProdutoApi.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\pj\FShop\FShop.ProdutoApi\obj\Debug\net6.0\FShop.ProdutoApi.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\pj\FShop\FShop.ProdutoApi\obj\Debug\net6.0\FShop.ProdutoApi.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\pj\FShop\FShop.ProdutoApi\obj\Debug\net6.0\FShop.ProdutoApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\pj\FShop\FShop.ProdutoApi\obj\Debug\net6.0\FShop.ProdutoApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\pj\FShop\FShop.ProdutoApi\obj\Debug\net6.0\staticwebassets\msbuild.FShop.ProdutoApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lucas\OneDrive\Área de Trabalho\pj\FShop\FShop.ProdutoApi\obj\Debug\net6.0\staticwebassets\msbuild.build.FShop.ProdutoApi.props
+C:\Users\lucas\OneDrive\Área de Trabalho\pj\FShop\FShop.ProdutoApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FShop.ProdutoApi.props
+C:\Users\lucas\OneDrive\Área de Trabalho\pj\FShop\FShop.ProdutoApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FShop.ProdutoApi.props
+C:\Users\lucas\OneDrive\Área de Trabalho\pj\FShop\FShop.ProdutoApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\lucas\OneDrive\Área de Trabalho\pj\FShop\FShop.ProdutoApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\lucas\OneDrive\Área de Trabalho\pj\FShop\FShop.ProdutoApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\lucas\OneDrive\Área de Trabalho\pj\FShop\FShop.ProdutoApi\obj\Debug\net6.0\scopedcss\bundle\FShop.ProdutoApi.styles.css
+C:\Users\lucas\OneDrive\Área de Trabalho\pj\FShop\FShop.ProdutoApi\obj\Debug\net6.0\FShop.ProdutoApi.csproj.CopyComplete
+C:\Users\lucas\OneDrive\Área de Trabalho\pj\FShop\FShop.ProdutoApi\obj\Debug\net6.0\FShop.ProdutoApi.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\pj\FShop\FShop.ProdutoApi\obj\Debug\net6.0\refint\FShop.ProdutoApi.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\pj\FShop\FShop.ProdutoApi\obj\Debug\net6.0\FShop.ProdutoApi.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\pj\FShop\FShop.ProdutoApi\obj\Debug\net6.0\FShop.ProdutoApi.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\pj\FShop\FShop.ProdutoApi\obj\Debug\net6.0\ref\FShop.ProdutoApi.dll

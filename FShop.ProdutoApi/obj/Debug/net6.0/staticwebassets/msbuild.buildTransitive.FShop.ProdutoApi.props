@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\FShop.ProdutoApi.props" />
+</Project>
